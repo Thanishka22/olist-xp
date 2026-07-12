@@ -1,4 +1,4 @@
-**# OlistXP — End-to-End A/B Experimentation Platform #**
+**OlistXP — End-to-End A/B Experimentation Platform**
 
 An end-to-end A/B testing and experimentation platform built on Databricks, PySpark, and Delta Lake — simulating a production-grade experimentation system used by companies like Amazon, Netflix, and Meta.
 
